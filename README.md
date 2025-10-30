@@ -1,6 +1,6 @@
 <h1>Projeto: Calculadora de IMC</h1>
 
-![App em funcionamento](imagens/calc-imc.gif)
+![App em funcionamento](imagens/calculadora-de-imc.gif)
 
 <h2>Descrição do projeto</h2>
 
@@ -31,6 +31,7 @@
 <h2>Status do projeto</h2>
 
 <p>Versão 1.0.0 finalizada.</p>
+
 
 
 
